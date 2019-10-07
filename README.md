@@ -12,5 +12,4 @@ Beyonce's publicist hired you to create a social media link list for Beyonce her
 
 3. Make sure that there are no points before the list items.
 
-**Bonus**: Find a way to make the list items appear side by side with CSS only.
 
